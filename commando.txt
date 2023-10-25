@@ -30,5 +30,5 @@
    git status - status is een hulp functie
    git add . - alles toevoegen
    git status  - new file(s) zichtbaar groen op de stage rood niet
-   
+   git push - gooi het naar hub
    

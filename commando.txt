@@ -1,0 +1,34 @@
+   10  git init
+   11  git status
+   12  git add.
+   13  git add .
+   14  git status
+   15  git commit -am "hello Git!"
+   16  git config --global johnnld "John"
+   17  git config --global user.name "johnnld"
+   18  git commit -am "hello GIT!"
+   19  pwd
+   20  ls
+   21  git status
+   22  git commit -am "hi_GIT"
+   23  git config --global user.email "johpy.py@gmail.com"
+   24  git commit -am "hi_GIT"
+   25  git staus
+   26  git status
+   27  git log
+   28  history
+   29  git remote add origin https://github.com/johnnld/first_one.git
+   30  git push
+   31  git push --set-upstream origin master
+   32  history
+   
+   basis commando's 
+   LS - list
+   PWD - waar ben ik print working directory
+   
+   git init - maak een repository
+   git status - status is een hulp functie
+   git add . - alles toevoegen
+   git status  - new file(s) zichtbaar groen op de stage rood niet
+   
+   

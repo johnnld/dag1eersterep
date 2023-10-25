@@ -32,3 +32,126 @@
    git status  - new file(s) zichtbaar groen op de stage rood niet
    git push - gooi het naar hub
    
+    1  ls
+    2  cd d:
+    3  ls
+    4  cd git
+    5  ls
+    6  pwd
+    7  cd ..
+    8  cd git_play
+    9  ls
+   10  git init
+   11  git status
+   12  git add.
+   13  git add .
+   14  git status
+   15  git commit -am "hello Git!"
+   16  git config --global johnnld "John"
+   17  git config --global user.name "johnnld"
+   18  git commit -am "hello GIT!"
+   19  pwd
+   20  ls
+   21  git status
+   22  git commit -am "hi_GIT"
+   23  git config --global user.email "johpy.py@gmail.com"
+   24  git commit -am "hi_GIT"
+   25  git staus
+   26  git status
+   27  git log
+   28  history
+   29  git remote add origin https://github.com/johnnld/first_one.git
+   30  git push
+   31  git push --set-upstream origin master
+   32  history
+   33  git status
+   34  git add .
+   35  git status
+   36  git commint -am "added text"
+   37  git commit -am "added text"
+   38  git push
+   39  pwd
+   40  cd /d
+   41  ls
+   42  cd Users/john
+   43  ls
+   44  cd python
+   45  ls
+   46  ls
+   47  git status
+   48  cd git play
+   49  cd git_play
+   50  ls
+   51  git status
+   52  git commit -am "moved directory"
+   53  quit
+   54  exit
+   55  cd dag_1
+   56  ls
+   57  git status
+   58  git init
+   59  git add .
+   60  git commit --am "first install"
+   61  ls
+   62  git push
+   63  git status
+   64  git push
+   65  git commit --am "first install"
+   66  git push
+   67  git add .
+   68  git push
+   69  git push first_one
+   70  git push --set-upstream first_one master
+   71  git rm .
+   72  git rm . -r
+   73  pwd
+   74  git push --set-upstream first_one master
+   75  git push --set-upstream first_one maste
+   76  git init
+   77  git commit - am "nieuw install"
+   78  git commit -am "nieuw install"
+   79  git push
+   80  git remote add origin https://github.com/johnnld/day1.git
+   81  git push
+   82  git push --set-upstream dag1 master
+   83  ls
+   84  git commit -am "hi git"
+   85  git add .
+   86  gitstatus
+   87  git status
+   88  ls
+   89  git init
+   90  git status
+   91  git commit -am "dag1"
+   92  quit
+   93  exit
+   94  ls
+   95  git init
+   96  git status
+   97  git add .
+   98  git status
+   99  git status
+  100  git add .
+  101  git status
+  102  git reset
+  103  git status
+  104  git add .
+  105  git status
+  106  git commit -m "eerste commit"
+  107  git status
+  108  git log
+  109  git status
+  110  ls
+  111  git status
+  112  git log
+  113  git status
+  114  git add .
+  115  git commit -m "tweede commit"
+  116  git status
+  117  git log
+  118  git remote add origin https://github.com/johnnld/dag1eersterep.git
+  119  git remote - v
+  120  git remote -v
+  121  git push
+  122  git push --set-upstream origin master
+  123  history
